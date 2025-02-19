@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+
+#ignore log files
+*.log
+#ignore compiled files
+*.class
+*.o
+*.so
+ #ignore environemnt files
+.env
+
